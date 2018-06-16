@@ -1,0 +1,59 @@
+.jumbotron {
+    background-color: rgb(5, 7, 100);
+    margin: 0px 200px 75px 200px;
+}
+
+
+.container {
+    text-align: center;
+}
+
+
+.display-4 {
+    color: white;
+    font-weight: bold;
+}
+
+/* .icon {
+    margin-left: 90px;
+} */
+
+
+.form-group {
+    /* margin-left: 250px;
+    margin-right: 250px; */
+    /* background-color: pink; */
+}
+
+h5 {
+    background-color: lightgray;
+    padding:10px;
+}
+
+
+form {
+    margin: 50px 200px 0px 200px;
+    border: 1px solid gray;
+}
+
+.form-group {
+    margin: 0px 15px 0px 15px;
+}
+
+
+.button { 
+    margin-left: 15px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+
+.param {
+    background-color: lightgray;
+}
+
+.fa {
+    font-weight: bold;
+}
